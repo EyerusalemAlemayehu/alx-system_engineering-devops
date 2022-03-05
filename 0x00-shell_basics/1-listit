@@ -3,3 +3,5 @@ ls-l
 ls
 #!/bin/bash
 ls
+#!/bin/bash
+cd
